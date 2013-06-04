@@ -132,7 +132,7 @@
 			</a>
 
 			<br /><br />
-			<i><a href="mailto:ntp@rueckgr.at">Paul Staroch</a></i>
+			<i><a href="mailto:ntp@rueckgr.at">Paul Staroch</a></i> &ndash; <a href="//rueckgr.at/">rueckgr.at</a>
 		</div>
 	</body>
 </html>
