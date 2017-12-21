@@ -33,7 +33,7 @@
 			<br /><br />
 
 			This is one of two freely available  <a href="http://en.wikipedia.org/wiki/Network_Time_Protocol">NTP</a> servers in the domain rueckgr.at
-			Both servers are running <a href="http://www.debian.org/releases/squeeze/">Debian Jessie</a>.
+			Both servers are running <a href="http://www.debian.org/releases/stretch/">Debian Stretch</a>.
 
 			You are free to use any of the two servers in your NTP configuration:
 
