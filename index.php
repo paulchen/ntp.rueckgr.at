@@ -38,7 +38,7 @@
 			You are free to use any of the two servers in your NTP configuration:
 
 			<ul>
-				<li><strong>ntp1.rueckgr.at</strong>: 5.9.110.236 (IPv4), 2a01:4f8:162:51e2::2 (IPv6), stratum 2</li>
+				<li><strong>ntp1.rueckgr.at</strong>: 78.46.53.2 (IPv4), 2a01:4f8:110:12d5::2 (IPv6), stratum 2</li>
 				<li><strong>ntp2.rueckgr.at</strong>: 88.99.174.22 (IPv4), 2a01:4f8:c0c:2dd::2 (IPv6), stratum 2</li>
 			</ul>
 
